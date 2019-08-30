@@ -1,3 +1,6 @@
+// Dit is een TO DO app in jquery om uit te leggen wat imperatief programmeren is.
+// Nu nog een React app maken die aantoont wat declaratief programmeren is...
+
 import $ from "jquery";
 var serializeForm = require("form-serialize");
 
